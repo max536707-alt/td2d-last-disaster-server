@@ -1,0 +1,13 @@
+
+{
+  "name": "td2d-last-disaster-server",
+  "version": "1.0.0",
+  "description": "Multiplayer server for TD2D The Last Disaster",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
